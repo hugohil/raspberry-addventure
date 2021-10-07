@@ -1,6 +1,14 @@
 Il était en train de passer l'aspirateur quand le téléphone sonna !
 L'horloge affichait 12h34, chaque minute, son impatience grandissait.
+<<<<<<< HEAD
+Tic tac, tic tac, son envie d'uriner devenait alarmante.
+=======
 La faim se faisait sentir.
 
 L'heure de la chasse était arrivé, la faim, la peur, la fièvre de la Purge
+<<<<<<< HEAD
 BONBONBONONONCABCKJBDSZHVBSJDLZBCDS
+=======
+>>>>>>> 752ce44baa1d3d1f34f7afdc5b78d407d065756f
+
+>>>>>>> fbdee3c6df4a255b916d81649e530618aecb5f42
