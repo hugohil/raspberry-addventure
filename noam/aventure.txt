@@ -1,2 +1,7 @@
 Il était en train de passer l'aspirateur quand le téléphone sonna.
+<<<<<<< HEAD
 C'était sa daronne au bout du fil.
+=======
+C'était sa mère au bout du fil.
+Ftg mec tqt
+>>>>>>> a9b9e24c14b8b09dcdd73e67be02a9c1aaeb8cf0
