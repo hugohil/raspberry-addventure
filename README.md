@@ -53,6 +53,12 @@ $ cat intro.txt | say -v Thomas
 | `source ~/.bash_profile`                   | restart your terminal config file             |
 
 
+### resources
+
+* [shell initiation](https://github.com/patriciogonzalezvivo/Shell-Initiation)
+* [shell](https://www.fjamet.com/technologies/tangible/raspberry/shell.html)
+
+
 ### crédits
 
 La phrase d'introduction
