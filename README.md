@@ -13,9 +13,10 @@ $ nano mon-prenom/aventure.txt # ecrire dans le fichier
 Pour ajouter vos modifications au dépôt git
 
 ```sh
-$ git add mon-prenom/aventure.txt
+$ git add . # ajouter toutes les modifications
 $ git commit -m "explication des modifications"
-$ git push origin main
+$ git pull # synchroniser avec le dépôt distant
+$ git push # uploader les modifications
 ```
 
 Pour continuer les aventures de vos camarades :
